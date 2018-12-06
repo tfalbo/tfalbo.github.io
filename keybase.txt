@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/thaissa
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://thaissa.me
+  * I am thaissa (https://keybase.io/thaissa) on keybase.
+  * I have a public key with fingerprint 9ABB 6958 E088 EBE0 B7FB  0FD3 7E4A 7BE7 AD3E 048E
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f596ee07e5cc72863294455a05b217e5a7f3760134901779a50fa92d3b6d35140a",
+      "fingerprint": "9abb6958e088ebe0b7fb0fd37e4a7be7ad3e048e",
+      "host": "keybase.io",
+      "key_id": "7e4a7be7ad3e048e",
+      "kid": "0101c6b508a165eee520e5288a699f28bc5aaa471291f63ed26e29a998a372cb09280a",
+      "uid": "d5a77239e71ce8073f2f15eba805e619",
+      "username": "thaissa"
+    },
+    "service": {
+      "hostname": "thaissa.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1525640680,
+  "expire_in": 157680000,
+  "prev": "e9ed69686343e95e9c7dbf33d994612b5b4194914fa4b62bc8f64bea318bfc6e",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNwAnicbVJ7UFRVHN5FFgHFEARSSvBmikjLfd97dhotKFJgVBrHCta2+zh3ubPs
+g92FYDYaHdEQC4akTAiwKcsJlkcIQlFCMtqwpNPEyzHj1SCISuqYNRJ2L5N/NNOZ
+OXPmfPN93/l+v/PrDVmiCda+neq55t3iX6b19VTmaTLnrNMehLeLhYjBg1jg4gFz
+ROhymyyyiBgQFMNRiQI0hCgDKUFgcJYmcECSFMWhFI9jCsoxEsHQKEaQAMUYBnAU
+KnEAFwmeFgkKI1EOSUAk2WaGTodTtrkVW8DxPA0oFqIsC3mI8ozEo5JIMJDkGB4y
+nEhAlGShIsy2u1SFEo7nXFAv2xVMuZgW4/0P/1FuFBNonkJZDqMpCCGFo8pmWY4G
+QMJZXqA4jiMZDAeYRBNQxGmIAw4AliMYXOBRgLOLufMW7USlSAYnAGQwAbIoQ0i4
+hFGQ51iUgjQGVKILOm2cFSpsdzYnu1wcUpSAKGC+LEC1r2oh/yXorWpgh9Putgv2
+HAXPdrsdBlXmLnSovDchb/rXwcTLNlHpoSLIh06XbLchBkxhCm5ZtcQonKJJlGbR
+BAQWOGQnNMkqg2IUSFnqMzBfsYQAijSglV8kCQgoCARG5CWCEAEgaQznKZ7EAAkw
+UuJInsZ5gZVokoccgbG8JNBqYBfMtdkRA0EoOTmz4umSzTbOneeESNH3PUZ/jTZY
+E6DzU4dLExwU+mjkTJ7HFuL6mt+vSjydPBJmOTj0riZs+YtXHRmrLp8rbcuoOgQa
+ouMnWiu/KxpZ2dRTrgHxG7JnPyp+WNfdkhTc2x+xR0K7vS+c7SrUtD6sj7fmLLvY
+tjuLfTJHd++Ct07f/LrxRM1vYRvxneOfnW/LD/m9KTI+LzQqwHuyo+/2Ju0+oyVq
+Mm7Zzfx9kwdz71wJr9C2JxWPxK1csQ5Sm7XXjWsayQ2mB2O3viz+YyDl9K9M6qGx
+sl0p78UZTU8vCT2T93V77qtbYzI+eCN2aPTEdVvHQPtYTHfttqUpVND0qvKJG/Pe
+A/b69oa5tPQvht3VW6eSjw1Zny+9nxh48ZOF2sczX1lRGditb6g+i6S93P/xzI5e
+75Rn6plzKWHb0gqyXuttnDnwQ0hNif7+9kHv0P5iK5J6efa2p2Gmw/azZaKrLDLA
+725pa9QmqWT0SqLZsbul2PdSJ/xrfM/f7LG3GhaOmiKurV9teefzyZ36rmHBaa7w
+Dd574s6RvWsiCiZ91Eym+GOG36nxWxeGp1t2HF5ddxP+cn5677cD6TGRsT2xtcF1
+LcmJ38x1inV+81W+vs1Ja8N7jU1nymPndYPmxqv+f3atbd7/1fJwXtN5ZGnPg+1b
+KtJ9Ot1MzcbnEo9nNE+sm60tQUZPXeo//JSuvrx6JPrZo4b17Vn66JOX+j+ssIdj
+2K7An6IHb9QEoXePf/oPyOHBVA==
+=0LOh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thaissa
+
+==================================================================
